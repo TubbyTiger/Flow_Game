@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examkyekevin</string>
+    <string name="restartString">RESTART</string>
+    <string name="lost">You lost the game!</string>
+    <string name="won">You won the game!</string>
+
+</resources>
